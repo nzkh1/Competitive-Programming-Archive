@@ -37,7 +37,7 @@ A comprehensive roadmap and solution set for the Romanian Informatics Olympiads.
 
 | Directory | Contents |
 | :--- | :--- |
-| [`/Grade-10`](./Grade-10/) | BFS, Greedy, Frequency Arrays, STL Vectors |
+| [`/Grade-10`](./Grade-10/) | BFS, Greedy, Matrixes, Arrays, STL Vectors |
 | [`/Grade-11`](./Grade-11/) | Segment Trees, Graphs, advanced STL |
 | [`/Templates`](./Templates/) | Fast I/O, Matrix struct, Disjoint Sets |
 | [`/Contests`](./Contests/) | Full problem sets from past OJI/ONI years |
